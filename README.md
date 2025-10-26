@@ -1,4 +1,4 @@
-# 🧪 Playwright E2E Testing Project
+#  Playwright E2E Testing Project
 
 Proyek ini menggunakan **[Microsoft Playwright](https://playwright.dev/)** sebagai framework untuk melakukan **automated end-to-end (E2E) testing** pada aplikasi web.  
 Struktur proyek ini menerapkan **Fixtures** dan **Page Object Model (POM)** agar test lebih modular, mudah dibaca, dan scalable.
@@ -19,7 +19,7 @@ Struktur proyek ini menerapkan **Fixtures** dan **Page Object Model (POM)** agar
 
 ---
 
-## 🧩 Requirements
+##  Requirements
 
 Pastikan environment kamu memenuhi requirement berikut sebelum menjalankan test:
 
@@ -32,19 +32,19 @@ Pastikan environment kamu memenuhi requirement berikut sebelum menjalankan test:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Ikuti langkah-langkah berikut untuk setup project:
 
 ```bash
-# 1️⃣ Clone repository
+# Clone repository
 git clone https://github.com/kennyRamadhan/playwright.git
 cd playwright-project
 
-# 2️⃣ Install dependencies
+# Install dependencies
 npm install
 
-# 3️⃣ Install Playwright browsers (Chromium, Firefox, WebKit)
+# Install Playwright browsers (Chromium, Firefox, WebKit)
 npx playwright install
 
 
